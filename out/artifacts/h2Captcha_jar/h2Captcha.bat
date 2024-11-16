@@ -1,0 +1,1 @@
+@start javaw -jar h2Captcha.jar
